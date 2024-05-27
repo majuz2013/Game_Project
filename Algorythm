@@ -1,1 +1,9 @@
 
+
+choose = ['Rock', 'Scissors', 'Paper']
+
+User = None
+Computer = random.randint(choose)
+rinning = True
+while running:
+
